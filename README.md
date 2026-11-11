@@ -7,3 +7,5 @@ README.md (пример)
 - PHP
 - MySQL
 - Git
+git add README.md
+git commit -m "Update project documentation"
